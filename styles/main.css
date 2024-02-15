@@ -9,52 +9,54 @@
  */
 
 :root {
-    font-family: sans-serif;
-    background-color: #F2EFEA;
-    color: black;
+  font-family: sans-serif;
+  background-color: #f2efea;
+  color: black;
 }
 
 body {
-    max-width: 90ch;
-    margin: 0 auto;
-    line-height: 1.5;
+  max-width: 90ch;
+  margin: 0 auto;
+  line-height: 1.5;
 }
 
-h1, h2, h3 {
-    text-align: center;
-    line-height: normal;
+h1,
+h2,
+h3 {
+  text-align: center;
+  line-height: normal;
 }
 
 h1 {
-    font-size: 4em;
-    font-weight: 900;
-    text-shadow: 0.02em 0.04em #403D58;
-    color: #FC7753;
+  font-size: 4em;
+  font-weight: 900;
+  text-shadow: 0.02em 0.04em #403d58;
+  color: deeppink;
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
-    margin: 1.6em 0;
+  border-bottom: 0.1em solid #66d7d1;
+  padding: 0.25em;
+  margin: 1.6em 0;
 }
 
 section p {
-    text-indent: 2.8em;
+  text-indent: 2.8em;
 }
 
 .project {
-    background-color: #403D58;
-    color: #F2EFEA;
-    padding: 0.5em 2em;
-    border-radius: 0.5em;
-    margin-bottom: 1.5em;
+  background-color: #403d58;
+  color: #f2efea;
+  padding: 0.5em 2em;
+  border-radius: 0.5em;
+  margin-bottom: 1.5em;
 }
 
 .project h3 {
-    color: #DBD563;
-    margin-top: 1rem;
-    margin-left: 2em;
-    margin-right: 2em;
-    border-bottom: 0.1em solid #a6a57a;
-    padding-bottom: 0.5em;
+  color: #dbd563;
+  margin-top: 1rem;
+  margin-left: 2em;
+  margin-right: 2em;
+  border-bottom: 0.1em solid #a6a57a;
+  padding-bottom: 0.5em;
 }
