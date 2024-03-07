@@ -28,6 +28,7 @@ h3 {
 }
 
 h1 {
+  font-style:italic;
   font-size: 4em;
   font-weight: 900;
   text-shadow: 0.02em 0.04em #403d58;
@@ -53,7 +54,7 @@ section p {
 }
 
 .project h3 {
-  color: #dbd563;
+  color: #9480d8;
   margin-top: 1rem;
   margin-left: 2em;
   margin-right: 2em;
